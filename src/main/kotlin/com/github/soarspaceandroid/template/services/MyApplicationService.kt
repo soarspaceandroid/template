@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.soarspaceandroid.template.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.soarspaceandroid.template.MyBundle
 
 class MyApplicationService {
 
